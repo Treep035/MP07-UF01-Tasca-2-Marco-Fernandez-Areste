@@ -1,1 +1,2 @@
-.
+- He modificado el icono principal de la web y también el icono de la pestaña.
+- He creado una nueva página llamada "Contact", en la que muestro información de contacto. He utilizado scss para decorarla.
